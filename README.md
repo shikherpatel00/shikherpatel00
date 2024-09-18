@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend Developement**
 
-- 💬 Ask me about **MERN, DSA**
+- 💬 Ask me about **DSA, MERN**
 
 - 📫 How to reach me **shikherpatel@gmail.com**
 
