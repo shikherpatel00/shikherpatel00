@@ -1,5 +1,5 @@
-[![MasterHead]([![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io))](https://shikherpatel.io)
-<h1 align="center">Hi 👋, I'm Shikher</h1>
+[![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/1*mB6YLIGqIk1hTzU6Fb12zQ.gif)](https://shikherpatel.io)
+<h1 align="center">Hi 👋, I'm Shikher Patel</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
 
